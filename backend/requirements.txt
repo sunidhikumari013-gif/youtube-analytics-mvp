@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+python-jose[cryptography]
+httpx
+google-auth-oauthlib
+google-api-python-client
+apscheduler
+python-dotenv
